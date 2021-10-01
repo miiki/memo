@@ -2,8 +2,6 @@
 - OCIチュートリアル
     - IaaS, PaaS なんでも、チュートリアル形式
     - https://oracle-japan.github.io/ocitutorials/
-        - Oracle Database 編
-	- https://oracle-japan.github.io/ocitutorials/database/ 
 
 - OCI活用資料集
     - スライド、一部はセミナー動画も合わせて公開
