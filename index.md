@@ -18,6 +18,8 @@
 ![f_f_traffic_31_s64_f_traffic_31_0bg](https://user-images.githubusercontent.com/30823930/135700307-ce932258-02b8-466b-82dc-fa7dd4a341ba.png)
 - FastConnect プロバイダー様 一覧
     - [https://www.oracle.com/jp/cloud/networking/fastconnect-providers.html#apac](https://www.oracle.com/jp/cloud/networking/fastconnect-providers.html#apac)
+- IPSec VPN： Site - to - Site VPNクイックスタート（製品ドキュメント）
+    - (https://docs.oracle.com/ja-jp/iaas/Content/Network/Tasks/quickstartIPsec.htm](https://docs.oracle.com/ja-jp/iaas/Content/Network/Tasks/quickstartIPsec.htm)
 
 ## 料金 
 ![f_f_object_164_s64_f_object_164_0bg](https://user-images.githubusercontent.com/30823930/135700092-b3840669-6b66-42b0-8bb6-1af0123e03a8.png)
