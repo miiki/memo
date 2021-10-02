@@ -6,12 +6,12 @@
     - IaaS, PaaS なんでも、チュートリアル形式
     - [https://oracle-japan.github.io/ocitutorials/](https://oracle-japan.github.io/ocitutorials/)
 - OCI活用資料集
-    - スライド、一部はセミナー動画も合わせて公開
+    - スライド、セミナー動画が豊富
     - [https://oracle-japan.github.io/ocidocs/](https://oracle-japan.github.io/ocidocs/)
 - 書籍「Oracle Cloud Infrastructure徹底入門」
     - 日本オラクル社員が執筆、OCI機能説明 ＋ 実運用での設計・運用のポイント
     - [https://www.shoeisha.co.jp/book/detail/9784798169033](https://www.shoeisha.co.jp/book/detail/9784798169033)
-- OCIリンク集
+- その他の情報は OCIリンク集 から
     - [https://blogs.oracle.com/oracle4engineer/column_oci_links](https://blogs.oracle.com/oracle4engineer/column_oci_links)
 
 ## ネットワーク
