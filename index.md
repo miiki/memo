@@ -28,6 +28,13 @@
 - 価格一覧（日本円表記には プルダウンメニューから「JPY」を選択）
     - [https://www.oracle.com/jp/cloud/price-list.html](https://www.oracle.com/jp/cloud/price-list.html)
 
+## 契約書やポリシー関連 
+-  Oracle Cloud Services Contracts
+    - [https://www.oracle.com/corporate/contracts/cloud-services/](https://www.oracle.com/corporate/contracts/cloud-services/)
+-  Pillar Document (Cloud Services Hosting and Delivery Policies > PaaS/IaaS Cloud Services Pillar Document) ※SLAなど
+    - [https://www.oracle.com/corporate/contracts/cloud-services/hosting-delivery-policies.html#paas-iaas](https://www.oracle.com/corporate/contracts/cloud-services/hosting-delivery-policies.html#paas-iaas)
+
+
 ## 本サイトへのアクセス
 ![QR_141131](https://user-images.githubusercontent.com/30823930/135700841-2f1a5940-cb53-456f-8a84-644c76314d9e.png)
 ※ https://miiki.github.io/memo/ のQRコードです
