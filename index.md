@@ -39,5 +39,4 @@
 ![QR_141131](https://user-images.githubusercontent.com/30823930/135700841-2f1a5940-cb53-456f-8a84-644c76314d9e.png)
 ※ https://miiki.github.io/memo/ のQRコードです
 
-ICONは [FLAT ICON DESIGN](http://flat-icon-design.com/) さんのもの。
-http://flat-icon-design.com/
+～ ICONは [FLAT ICON DESIGN](http://flat-icon-design.com/) さんより ～
