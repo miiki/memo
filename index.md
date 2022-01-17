@@ -29,6 +29,7 @@
     - [https://www.oracle.com/jp/cloud/price-list.html](https://www.oracle.com/jp/cloud/price-list.html)
 
 ## 契約書やポリシー関連 
+![f_f_traffic_47_s64_f_traffic_47_0bg](https://user-images.githubusercontent.com/30823930/149711290-5faf0655-51c4-4d87-972c-6029c1a168bd.png)
 -  Oracle Cloud Services Contracts
     - [https://www.oracle.com/corporate/contracts/cloud-services/](https://www.oracle.com/corporate/contracts/cloud-services/)
 -  Pillar Document (Cloud Services Hosting and Delivery Policies > PaaS/IaaS Cloud Services Pillar Document) ※SLAなど
@@ -36,6 +37,7 @@
 
 
 ## 本サイトへのアクセス
+
 ![QR_141131](https://user-images.githubusercontent.com/30823930/135700841-2f1a5940-cb53-456f-8a84-644c76314d9e.png)
 ※ https://miiki.github.io/memo/ のQRコードです
 
